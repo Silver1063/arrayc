@@ -5,7 +5,9 @@ Stores values directly in allocated memory, works very nicely with the basics. Y
 
 ## Building the test and example
 Run one or the other or both
+
 ```meson compile -C builddir && ./builddir/example```
+
 ```meson compile -C builddir && ./builddir/arraytest```
 
 ## Using it
